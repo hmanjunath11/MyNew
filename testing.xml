@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "TestNGSuite">
+   <test name = "testSet">
+   	  <parameter name = "myName" value="amuktha"/> 
+      <classes>
+         <class name = "TestCase1"/>
+         <class name = "TestCase2"/>
+      </classes>
+   </test>
+</suite>

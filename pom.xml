@@ -4,9 +4,9 @@
   <artifactId>TestNGProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+  
   <dependencies>
- 
-    	<dependency>
+		<dependency>
 	      	<groupId>org.testng</groupId>
       	 	<artifactId>testng</artifactId>
          	<version>6.9.8</version>

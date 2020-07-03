@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AllSuites">
+	<suite-files>
+		<suite-file path="SimpleTestNG.xml" />
+		<suite-file path="GroupExample.xml" />
+		<suite-file path="MultipleGroupExample.xml" />
+		<suite-file path="GroupOfGroupExample.xml" />
+	</suite-files>
+</suite>

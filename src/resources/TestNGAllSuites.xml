@@ -7,5 +7,6 @@
 		<suite-file path="GroupExample.xml" />
 		<suite-file path="MultipleGroupExample.xml" />
 		<suite-file path="GroupOfGroupExample.xml" />
+		<suite-file path="Employee.xml" />
 	</suite-files>
 </suite>
